@@ -8,7 +8,7 @@ variable "region" {
 variable "ssh_key_public" {
   type    = string
   #Replace this with the location of you public key .pub
-  default = "./id_rsa.pub"
+  default = "~/.ssh/lab_ansible_key.pub"
 }
 
 variable "subnet_ips" {}
