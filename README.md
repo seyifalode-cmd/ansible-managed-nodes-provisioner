@@ -137,7 +137,7 @@ terraform destroy -auto-approve
 
 ```bash
 # Clone the repository
-git clone https://github.com/Seyifunmi0604/ansible-managed-nodes-provisioner.git
+git clone https://github.com/seyifalode-cmd/ansible-managed-nodes-provisioner.git
 cd ansible-managed-nodes-provisioner
 
 # Initialize modules and provider
