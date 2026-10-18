@@ -1,4 +1,6 @@
-# **Ansible Managed Nodes Provisioner**
+# Ansible Managed Nodes Provisioner
+
+Oluwaseyi Michael Falode | Cloud & DevOps Engineering | Toronto, ON
 
 Terraform module-based provisioning of four AWS EC2 instances in a custom VPC to serve as Ansible managed nodes — web servers and database servers — ready to receive configuration from a control node.
 
